@@ -47,6 +47,8 @@ How's it going bros?! My name is Adittya Kumar Chowdhury! I am a tech enthusiast
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=TheAdittyaKumar&theme=swift&border_radius=4.5) -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAdittyaKumar)](https://github.com/TheAdittyaKumar/github-readme-stats)
+
 #
 <!--
 <details>
