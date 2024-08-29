@@ -47,9 +47,6 @@ How's it going bros?! My name is Adittya Kumar Chowdhury! I am a tech enthusiast
 <img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAdittyaKumar&layout=compact" />
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=TheAdittyaKumar&theme=swift&border_radius=4.5) -->
-
-
-
 #
 <!--
 <details>
@@ -61,4 +58,4 @@ I have had the privilege of having my work recognized on both national and inter
 I also share my journey on YouTube, aiming to inspire others to think creatively and make a difference. If you’re interested in impactful tech, I would love to connect and explore what we can achieve together.
 -->
 [Portfolio?!]: https://theadittyakumar.github.io/
-[youtube]: https://www.youtube.com/@adittyakumarchowdhury
+[Youtube]: https://www.youtube.com/@adittyakumarchowdhury
