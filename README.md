@@ -1,16 +1,16 @@
-# 🏄‍♂️ Adittya Kumar Chowdhury!
+# 👑 Adittya Kumar Chowdhury!
 
 **`Tech Innovator (Developer/Procrastinator/Creator)`**
 
-HEY HEY HEY! I am Adittya Kumar Chowdhury, a tech enthusiast and developer committed to creating innovative projects that positively impact people’s lives. I am passionate about thinking outside the box, whether it’s in coding, robotics, or content creation. Currently, I’m learning JavaScript, building on my skills in HTML, CSS, and basic Python. I share my journey, projects, and insights on my YouTube channel "[adittyakumarchowdhury][youtube]", where I aim to inspire others and showcase how technology can solve real-world problems. Join me as I continue to learn, create and make a difference in the digital world.
+How's it going bros?! My name is Adittya Kumar Chowdhury! I am a tech enthusiast and developer committed to creating innovative projects that positively impact people’s lives. I am passionate about thinking outside the box, whether it’s in coding, robotics, or content creation. Currently, I’m learning JavaScript, building on my skills in HTML, CSS, and basic Python. I share my journey, projects, and insights on my YouTube channel "[adittyakumarchowdhury][youtube]", where I aim to inspire others and showcase how technology can solve real-world problems. Join me as I continue to learn, create and make a difference in the digital world.
 
    <p align="left">
       <a href="https://www.youtube.com/channel/UCu68HfYtlcXFI7kNhnSdspA?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCu68HfYtlcXFI7kNhnSdspA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/c/adittyakumarchowdhury">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCu68HfYtlcXFI7kNhnSdspA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="https://github.com/TheAdittyaKumar?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/TheAdittyaKumar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
    </p>
 
 ---
