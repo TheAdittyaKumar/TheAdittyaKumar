@@ -50,14 +50,16 @@ How's it going bros?! My name is Adittya Kumar Chowdhury! I am a tech enthusiast
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=TheAdittyaKumar&theme=swift&border_radius=4.5) -->
 #
-<!--
 <details>
- <summary><h3>👨‍💻 Adittya's Coding Journey</h3></summary>
-   Hi, I’m Adittya Kumar Chowdhury. I’m focused on using technology to solve real problems and make a meaningful impact. Whether it’s developing affordable water purification systems or creating tools like the 'Eyewriter' to assist those with disabilities, I believe in approaching challenges with practical, innovative solutions.
+  <summary><h3>🚀 Adittya's Coding Journey</h3></summary>
 
-I have had the privilege of having my work recognized on both national and international stages, but my real motivation comes from pushing boundaries and finding new ways to help others. Right now, I’m deepening my knowledge of JavaScript, building on my skills in Arduino, HTML, CSS, and Python, to keep developing projects that matter.
+  Hi, I’m **Adittya Kumar Chowdhury**. I’m focused on using technology to solve real problems and make a meaningful impact. Whether it’s developing affordable water purification systems or creating tools like the 'Eyewriter' to assist those with disabilities, I believe in approaching challenges with practical, innovative solutions.
 
-I also share my journey on YouTube, aiming to inspire others to think creatively and make a difference. If you’re interested in impactful tech, I would love to connect and explore what we can achieve together.
--->
-[Portfolio?!]: https://theadittyakumar.github.io/
-[Youtube]: https://www.youtube.com/@adittyakumarchowdhury
+  I have had the privilege of having my work recognized on both national and international stages, but my real motivation comes from pushing boundaries and finding new ways to help others. Right now, I’m deepening my knowledge of JavaScript, building on my skills in HTML, CSS, and Python, to keep developing projects that matter.
+
+  I also share my journey on YouTube, aiming to inspire others to think creatively and make a difference. If you’re interested in impactful tech, I would love to connect and explore what we can achieve together.
+
+  [Portfolio?!](https://theadittyakumar.github.io/)  
+  [Youtube](https://www.youtube.com/@adittyakumarchowdhury)
+</details>
+
