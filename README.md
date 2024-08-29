@@ -43,11 +43,13 @@ How's it going bros?! My name is Adittya Kumar Chowdhury! I am a tech enthusiast
 #
 
 ### 📊 Stats
+
 <div align="center">
-  <img alt="my stats" width="32%" src="https://github-readme-stats.vercel.app/api?username=TheAdittyaKumar&show_icons=true&hide_border=true&theme=swift" />
-  <img alt="top langs" width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAdittyaKumar&layout=compact&hide_border=true&theme=swift" />
-  <img alt="GitHub streak" width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=TheAdittyaKumar&theme=swift&hide_border=true" />
+  <img alt="my stats" width="45%" src="https://github-readme-stats.vercel.app/api?username=TheAdittyaKumar&show_icons=true&hide_border=true&theme=swift" />
+  <img alt="top langs" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAdittyaKumar&layout=compact&hide_border=true&theme=swift" />
+  <img alt="GitHub streak" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=TheAdittyaKumar&theme=swift&hide_border=true" />
 </div>
+
 
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=TheAdittyaKumar&theme=swift&border_radius=4.5) -->
