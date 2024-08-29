@@ -43,7 +43,7 @@ HEY HEY HEY! I am Adittya Kumar Chowdhury, a tech enthusiast and developer commi
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![Adittya's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheAdittyaKumar&show_icons=true&theme=swift)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=TheAdittyaKumar&theme=swift&border_radius=4.5) -->
 
