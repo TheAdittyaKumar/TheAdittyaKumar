@@ -4,7 +4,7 @@
 
 How's it going bros?! My name is Adittya Kumar Chowdhury! I am a tech enthusiast and developer committed to creating innovative projects that positively impact people’s lives. I am passionate about thinking outside the box, whether it’s in coding, robotics, or content creation. Currently, I’m learning JavaScript, building on my skills in HTML, CSS, and basic Python. I share my journey, projects, and insights on my YouTube channel "[adittyakumarchowdhury][youtube]", where I aim to inspire others and showcase how technology can solve real-world problems. Join me as I continue to learn, create and make a difference in the digital world.
 
-   <p align="left">
+   <p align="center">
       <a href="https://www.youtube.com/channel/UCu68HfYtlcXFI7kNhnSdspA?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCu68HfYtlcXFI7kNhnSdspA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/c/adittyakumarchowdhury">
