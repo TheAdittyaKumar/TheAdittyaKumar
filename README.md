@@ -14,6 +14,12 @@ How's it going bros?! My name is Adittya Kumar Chowdhury! I am a tech enthusiast
       <img src="https://komarev.com/ghpvc/?username=TheAdittyaKumar&label=Profile%20views&color=0e75b6&style=flat" alt="adittya" />
    </p>
 
+- 👨‍💻 All of my projects are available at [https://theadittyakumar.github.io/](https://theadittyakumar.github.io/)
+
+- 📫 How to reach me **adittyakumar671@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/18HTHVVAzU8ZimrGAWzG-2Vc-Kn4fzzOG/view?usp=sharing](https://drive.google.com/file/d/18HTHVVAzU8ZimrGAWzG-2Vc-Kn4fzzOG/view?usp=sharing)
+
 ---
 
 ### 🧰 Languages and Tools
