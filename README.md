@@ -1,4 +1,4 @@
-# 👑 Adittya Kumar Chowdhury!
+# 👑 HEY HEY HEY! It's me Adittya!
 
 **`Tech Innovator (Developer/Procrastinator/Creator)`**
 
