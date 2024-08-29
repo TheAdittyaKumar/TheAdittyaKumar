@@ -2,7 +2,7 @@
 
 **`Tech Innovator (Developer/Procrastinator/Creator)`**
 
-How's it going bros?! My name is Adittya Kumar Chowdhury! I am a tech enthusiast and developer committed to creating innovative projects that positively impact people’s lives. I am passionate about thinking outside the box, whether it’s in coding, robotics, or content creation. Currently, I’m learning JavaScript, building on my skills in HTML, CSS, and basic Python. I share my journey, projects, and insights on my YouTube channel "Adittya Kumar Chowdhury", where I aim to inspire others and showcase how technology can solve real-world problems. Join me as I continue to learn, create and make a difference in the digital world.
+How's it going bros?! My name is Adittya Kumar Chowdhury! I am a tech enthusiast and developer committed to creating innovative projects that positively impact people’s lives. I am passionate about thinking outside the box, whether it’s in coding, robotics, or content creation. Currently, I’m learning JavaScript, building on my skills in Arduino, HTML, CSS, and basic Python. I share my journey, projects, and insights on my YouTube channel "Adittya Kumar Chowdhury", where I aim to inspire others and showcase how technology can solve real-world problems. Join me as I continue to learn, create and make a difference in the digital world.
 
    <p align="left">
       <a href="https://www.youtube.com/channel/UCu68HfYtlcXFI7kNhnSdspA?sub_confirmation=1">
