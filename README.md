@@ -48,6 +48,7 @@ How's it going bros?! My name is Adittya Kumar Chowdhury! I am a tech enthusiast
   <img alt="my stats" width="45%" src="https://github-readme-stats.vercel.app/api?username=TheAdittyaKumar&show_icons=true&hide_border=true&theme=vision-friendly-dark" />
   <img alt="top langs" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAdittyaKumar&layout=compact&hide_border=true&theme=vision-friendly-dark" />
   <img alt="GitHub streak" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=TheAdittyaKumar&theme=vision-friendly-dark&hide_border=true" />
+   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheAdittyaKumar" alt="adittya" /></a> </p>
 </div>
 
 
