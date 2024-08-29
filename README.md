@@ -44,9 +44,11 @@ How's it going bros?! My name is Adittya Kumar Chowdhury! I am a tech enthusiast
 
 ### 📊 Stats
 
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=TheAdittyaKumar" />
-<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAdittyaKumar&layout=compact" />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheAdittyaKumar&" alt="adittya" /></p>
+<div align="center">
+  <img alt="my stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=TheAdittyaKumar&show_icons=true&hide_border=true&theme=radical" />
+  <img alt="top langs" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAdittyaKumar&layout=compact&hide_border=true&theme=radical" />
+  <img alt="GitHub streak" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TheAdittyaKumar&theme=radical&hide_border=true" />
+</div>
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=TheAdittyaKumar&theme=swift&border_radius=4.5) -->
 #
