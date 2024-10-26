@@ -4,7 +4,7 @@
 
 - **Tech Enthusiast**: Creating projects with real world impact! Working on this project currently: [https://theadittyakumar.github.io/Technical-Documentation-Toothless/)
 - **Current Focus**: Learning JavaScript and Algorithms of Python; skilled in Arduino, HTML, CSS, basics of Python.
-- **YouTube Channel**: Sharing my journey and projects on "Adittya Kumar Chowdhury" to inspire others. Check me out [https://www.youtube.com/@adittyakumarchowdhury) 
+- **YouTube Channel**: Sharing my journey and projects on "Adittya Kumar Chowdhury" to inspire you! Check me out [https://www.youtube.com/@adittyakumarchowdhury) 
 
 
    <p align="left">
