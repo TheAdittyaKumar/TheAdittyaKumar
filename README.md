@@ -49,12 +49,12 @@
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Literally LEGO again 🇧🇩](https://ytcards.demolab.com/?id=P6BcFdw-YbI&title=Literally+LEGO+again+%F0%9F%87%A7%F0%9F%87%A9&lang=en&timestamp=1748989469&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Literally LEGO again 🇧🇩")](https://www.youtube.com/watch?v=P6BcFdw-YbI)
 [![Literally just LEGO](https://ytcards.demolab.com/?id=YoDek09jGmI&title=Literally+just+LEGO&lang=en&timestamp=1748974067&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Literally just LEGO")](https://www.youtube.com/watch?v=YoDek09jGmI)
 [![C U B E made by a code.](https://ytcards.demolab.com/?id=WUQWnYoMnWo&title=C+U+B+E+made+by+a+code.&lang=en&timestamp=1748876299&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "C U B E made by a code.")](https://www.youtube.com/watch?v=WUQWnYoMnWo)
 [![Just CAPYBARA.](https://ytcards.demolab.com/?id=zAJWq4P5a20&title=Just+CAPYBARA.&lang=en&timestamp=1748815516&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Just CAPYBARA.")](https://www.youtube.com/watch?v=zAJWq4P5a20)
 [![2024 Sri Lanka trip snacks! 🇱🇰](https://ytcards.demolab.com/?id=2hJytVo5C4U&title=2024+Sri+Lanka+trip+snacks%21+%F0%9F%87%B1%F0%9F%87%B0&lang=en&timestamp=1748791437&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "2024 Sri Lanka trip snacks! 🇱🇰")](https://www.youtube.com/watch?v=2hJytVo5C4U)
 [![Aula F75 keyboard unboxing](https://ytcards.demolab.com/?id=OP8d3IphjY8&title=Aula+F75+keyboard+unboxing&lang=en&timestamp=1748728528&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Aula F75 keyboard unboxing")](https://www.youtube.com/watch?v=OP8d3IphjY8)
-[![Elephant road (Bata signal) Dhaka 31st May 2025](https://ytcards.demolab.com/?id=C7Du4wj1F8Q&title=Elephant+road+%28Bata+signal%29+Dhaka+31st+May+2025&lang=en&timestamp=1748720863&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Elephant road (Bata signal) Dhaka 31st May 2025")](https://www.youtube.com/watch?v=C7Du4wj1F8Q)
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCu68HfYtlcXFI7kNhnSdspA?sub_confirmation=1)
