@@ -49,7 +49,12 @@
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Karwan Bazar, Dhaka 🇧🇩 November 2025](https://ytcards.demolab.com/?id=tJcJNxaMZFs&title=Karwan+Bazar%2C+Dhaka+%F0%9F%87%A7%F0%9F%87%A9+November+2025&lang=en&timestamp=1762031732&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Karwan Bazar, Dhaka 🇧🇩 November 2025")](https://www.youtube.com/shorts/tJcJNxaMZFs)
+[![Day 13 of relearning CS | Focus: CS50x intro to computer science - Python](https://ytcards.demolab.com/?id=SmtOp9LO518&title=Day+13+of+relearning+CS+%7C+Focus%3A+CS50x+intro+to+computer+science+-+Python&lang=en&timestamp=1759966957&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Day 13 of relearning CS | Focus: CS50x intro to computer science - Python")](https://www.youtube.com/shorts/SmtOp9LO518)
+[![Day 11 of relearning CS | Focus: CS50’s intro to computer science - Data structures](https://ytcards.demolab.com/?id=YIiVnh-6KAM&title=Day+11+of+relearning+CS+%7C+Focus%3A+CS50%E2%80%99s+intro+to+computer+science+-+Data+structures&lang=en&timestamp=1759452016&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Day 11 of relearning CS | Focus: CS50’s intro to computer science - Data structures")](https://www.youtube.com/shorts/YIiVnh-6KAM)
+[![Day 5 of My CS Journey | Focus: CS50’s intro to computer science - Arrays](https://ytcards.demolab.com/?id=giWJHpn2DG8&title=Day+5+of+My+CS+Journey+%7C+Focus%3A+CS50%E2%80%99s+intro+to+computer+science+-+Arrays&lang=en&timestamp=1758838442&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Day 5 of My CS Journey | Focus: CS50’s intro to computer science - Arrays")](https://www.youtube.com/shorts/giWJHpn2DG8)
+[![Day 11](https://ytcards.demolab.com/?id=1jCvmWbCoNA&title=Day+11&lang=en&timestamp=1755724464&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Day 11")](https://www.youtube.com/shorts/1jCvmWbCoNA)
+[![Day 10 incline 12 speed 4](https://ytcards.demolab.com/?id=cIw9w56Khmk&title=Day+10+incline+12+speed+4&lang=en&timestamp=1755640966&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Day 10 incline 12 speed 4")](https://www.youtube.com/shorts/cIw9w56Khmk)
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCu68HfYtlcXFI7kNhnSdspA?sub_confirmation=1)
