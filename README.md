@@ -49,7 +49,12 @@
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Today’s mission: Regular expression](https://ytcards.demolab.com/?id=ppXIKgQbZsM&title=Today%E2%80%99s+mission%3A+Regular+expression&lang=en&timestamp=1773791517&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Today’s mission: Regular expression")](https://www.youtube.com/shorts/ppXIKgQbZsM)
+[![DFA (cross product pattern problem)](https://ytcards.demolab.com/?id=GSUdReyh6xM&title=DFA+%28cross+product+pattern+problem%29&lang=en&timestamp=1773736119&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "DFA (cross product pattern problem)")](https://www.youtube.com/shorts/GSUdReyh6xM)
+[![More DFA practice](https://ytcards.demolab.com/?id=04DI6sN8oh8&title=More+DFA+practice&lang=en&timestamp=1773712016&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "More DFA practice")](https://www.youtube.com/shorts/04DI6sN8oh8)
+[![Two hours of DFA (Automata & Computability)](https://ytcards.demolab.com/?id=nCTrUwLYqgo&title=Two+hours+of+DFA+%28Automata+%26+Computability%29&lang=en&timestamp=1773535965&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Two hours of DFA (Automata & Computability)")](https://www.youtube.com/shorts/nCTrUwLYqgo)
+[![Things I got done today: 2 hours treadmill & (minimax & alpha beta pruning)](https://ytcards.demolab.com/?id=1DPDnV8kXK0&title=Things+I+got+done+today%3A+2+hours+treadmill+%26+%28minimax+%26+alpha+beta+pruning%29&lang=en&timestamp=1773279467&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Things I got done today: 2 hours treadmill & (minimax & alpha beta pruning)")](https://www.youtube.com/shorts/1DPDnV8kXK0)
+[![What I studied today? Requirement engineering](https://ytcards.demolab.com/?id=WDLDPxWuxk4&title=What+I+studied+today%3F+Requirement+engineering&lang=en&timestamp=1772928198&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "What I studied today? Requirement engineering")](https://www.youtube.com/shorts/WDLDPxWuxk4)
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCu68HfYtlcXFI7kNhnSdspA?sub_confirmation=1)
