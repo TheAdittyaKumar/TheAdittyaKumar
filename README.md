@@ -49,12 +49,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![CS50 Final Project | BracU Faculty City  | Interactive 3D Faculty Explorer](https://ytcards.demolab.com/?id=SRKrbEbrjP8&title=CS50+Final+Project+%7C+BracU+Faculty+City++%7C+Interactive+3D+Faculty+Explorer&lang=en&timestamp=1780388075&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CS50 Final Project | BracU Faculty City  | Interactive 3D Faculty Explorer")](https://www.youtube.com/watch?v=SRKrbEbrjP8)
-[![I Built a 3D Faculty City for BRAC University CSE Faculties](https://ytcards.demolab.com/?id=u2v8N8eptpQ&title=I+Built+a+3D+Faculty+City+for+BRAC+University+CSE+Faculties&lang=en&timestamp=1780225420&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I Built a 3D Faculty City for BRAC University CSE Faculties")](https://www.youtube.com/watch?v=u2v8N8eptpQ)
-[![Prada L’Homme EDT 100ml unboxing](https://ytcards.demolab.com/?id=mgJ_F3jlWSM&title=Prada+L%E2%80%99Homme+EDT+100ml+unboxing&lang=en&timestamp=1779991334&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Prada L’Homme EDT 100ml unboxing")](https://www.youtube.com/shorts/mgJ_F3jlWSM)
-[![Today’s mission: Regular expression](https://ytcards.demolab.com/?id=ppXIKgQbZsM&title=Today%E2%80%99s+mission%3A+Regular+expression&lang=en&timestamp=1773791517&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Today’s mission: Regular expression")](https://www.youtube.com/shorts/ppXIKgQbZsM)
-[![DFA (cross product pattern problem)](https://ytcards.demolab.com/?id=GSUdReyh6xM&title=DFA+%28cross+product+pattern+problem%29&lang=en&timestamp=1773736119&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "DFA (cross product pattern problem)")](https://www.youtube.com/shorts/GSUdReyh6xM)
-[![More DFA practice](https://ytcards.demolab.com/?id=04DI6sN8oh8&title=More+DFA+practice&lang=en&timestamp=1773712016&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "More DFA practice")](https://www.youtube.com/shorts/04DI6sN8oh8)
+
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCu68HfYtlcXFI7kNhnSdspA?sub_confirmation=1)
