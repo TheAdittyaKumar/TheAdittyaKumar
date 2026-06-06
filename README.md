@@ -89,7 +89,7 @@ My current research direction gives a protected hint: I study how people interpr
 #
 
 ### 📊 GitHub Stats
-[![Adittya's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheAdittyaKumar)](https://github.com/anuraghazra/github-readme-stats)
+[![Adittya's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheAdittyaKumar)](https://github.com/TheAdittyaKumar/github-readme-stats)
 
 
 
