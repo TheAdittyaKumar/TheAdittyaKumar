@@ -88,14 +88,16 @@ My current research direction gives a protected hint: I study how people interpr
 
 #
 
-### 📊 Stats
+### 📊 GitHub Stats
 
-<div align="left">
-  <img alt="my stats" width="45%" src="https://github-readme-stats.vercel.app/api?username=TheAdittyaKumar&show_icons=true&hide_border=true&theme=vision-friendly-dark" />
-  <img alt="top langs" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAdittyaKumar&layout=compact&hide_border=true&theme=vision-friendly-dark" />
-  <img alt="GitHub streak" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=TheAdittyaKumar&theme=vision-friendly-dark&hide_border=true" />
+<p align="left">
+  <img height="165" alt="Adittya's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TheAdittyaKumar&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" />
+  <img height="165" alt="Adittya's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAdittyaKumar&layout=compact&theme=vision-friendly-dark&hide_border=true&cache_seconds=86400" />
+</p>
 
-</div>
+<p align="left">
+  <img height="165" alt="Adittya's GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TheAdittyaKumar&theme=vision-friendly-dark&hide_border=true" />
+</p>
 
 
 
