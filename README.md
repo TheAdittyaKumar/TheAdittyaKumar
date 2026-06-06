@@ -87,9 +87,9 @@ My current research direction gives a protected hint: I study how people interpr
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCu68HfYtlcXFI7kNhnSdspA?sub_confirmation=1)
 
 #
-
 ### 📊 GitHub Stats
-[![Adittya's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheAdittyaKumar)](https://github.com/TheAdittyaKumar/github-readme-stats)
+
+[![Adittya's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheAdittyaKumar&show_icons=true&theme=vision-friendly-dark)](https://github.com/TheAdittyaKumar)
 
 
 
