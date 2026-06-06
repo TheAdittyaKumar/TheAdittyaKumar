@@ -1,9 +1,12 @@
 # 👑 HEY HEY HEY! It's me Adittya!
 
-**`Tech Innovator (Developer/Procrastinator/Creator)`**
+**`Computer Science undergraduate at BRAC University
+Software Engineering | HCI | ICTD | Social Computing | Human-Centered Technology`**
 
-- **Tech Enthusiast**: Creating projects with real world impact! Working on this project currently: [https://theadittyakumar.github.io/Technical-Documentation-Toothless/)
-- **Current Focus**: Learning JavaScript and Algorithms of Python; skilled in Arduino, HTML, CSS, basics of Python.
+- **I build applied software projects and research-driven systems that connect technical implementation with real user needs. My interests include software engineering, human-computer interaction, digital trust, Bangla-language technology, social computing, AI-assisted tools and public interest technology.
+
+My current research direction gives a protected hint: I study how people interpret sensitive online information and how lightweight design interventions can support credibility, reflection and safer digital engagement.
+
 - **YouTube Channel**: Sharing my journey and projects on "Adittya Kumar Chowdhury" to inspire you! Check me out [https://www.youtube.com/@adittyakumarchowdhury) 
 
    <p align="left">
