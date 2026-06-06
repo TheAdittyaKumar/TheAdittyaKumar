@@ -3,7 +3,7 @@
 **`Computer Science undergraduate at BRAC University
 Software Engineering | HCI | ICTD | Social Computing | Human-Centered Technology`**
 
-- **I build applied software projects and research-driven systems that connect technical implementation with real user needs. My interests include software engineering, human-computer interaction, digital trust, Bangla-language technology, social computing, AI-assisted tools and public interest technology.
+I build applied software projects and research-driven systems that connect technical implementation with real user needs. My interests include software engineering, human-computer interaction, digital trust, Bangla-language technology, social computing, AI-assisted tools and public interest technology.
 
 My current research direction gives a protected hint: I study how people interpret sensitive online information and how lightweight design interventions can support credibility, reflection and safer digital engagement.
 
