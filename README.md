@@ -19,12 +19,9 @@ My current research direction gives a protected hint: I study how people interpr
       <img src="https://komarev.com/ghpvc/?username=TheAdittyaKumar&label=Profile%20views&color=0e75b6&style=flat" alt="adittya" />
    </p>
 
-
-- 👨‍💻 Here's my portfolio! [https://theadittyakumar.github.io/](https://theadittyakumar.github.io/)
-
 - 📫 How to reach me **adittyakumar671@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18HTHVVAzU8ZimrGAWzG-2Vc-Kn4fzzOG/view?usp=sharing](https://drive.google.com/file/d/18HTHVVAzU8ZimrGAWzG-2Vc-Kn4fzzOG/view?usp=sharing)
+- 📄 View my academic, project, leadership and volunteering experiences on [LinkedIn](https://www.linkedin.com/in/adittyakumarchowdhury/)
 
 ---
 
